@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url("./assets/Images/background4.jpeg") no-repeat fixed;
 }
 
 code {
